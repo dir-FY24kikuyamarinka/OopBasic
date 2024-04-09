@@ -27,6 +27,13 @@ public class Employee {
     public void report() {
         report(1);
     }
+
+
+
+    public void joinMeeting() {
+        // TODO 自動生成されたメソッド・スタブ
+        
+    }
     
     
     
